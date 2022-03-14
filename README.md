@@ -18,8 +18,6 @@
 
 * [Mars Scrum app](https://keen-bose-1a7f8f.netlify.app/): A Scrum type web app, created by a team of 4 for our first Hackathon. We won the 2nd place ! [Repo](https://github.com/Andreaskalicani/hackathon11.05.2021)
 
-* [Weather app](https://github.com/saravalencia/weather-time): A weather app (still under construction) to practice the fundamentals of React.
-
 * [Montjuic website](https://github.com/saravalencia/Project1): First project during a web developer Bootcamp: Wild code school.
 
 * Soon personal Book and more projects to come!
