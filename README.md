@@ -13,7 +13,7 @@
 
 ## Some of my projects: 
 
-* [Redefine](https://github.com/saravalencia/Redefine): Still under construction, this website is built by a team of 4 as final project in a web developer bootcamp for a client located in Denmark. It's built with React, styled-components and atomic design.
+* [Redefine](https://github.com/saravalencia/Redefine): this website is built by a team of 4 as final project in a web developer bootcamp for a client located in Denmark. It's built with React, styled-components and atomic design.
 
 * [Radio](https://github.com/saravalencia/Project2-radio): An application to listen to the top 10 radios of the country of your choice, by clicking on the country that you prefer on the world map, you will get the top 10 most listened radio stations of the country. You have also a random radio button to navigate across 30,000 radio stations that come from a powerful API.
 
@@ -25,8 +25,8 @@
 
 ### Let's connect through [linkedin](https://www.linkedin.com/in/sara-valencia/)!
 
-- 🔭 I’m currently working on REDEFINE project: https://github.com/saravalencia/Redefine
-- 🌱 I’m currently learning Atomic design, Express, Back-end registration 
+- 🔭 Currently working at WhiteLab Genomics
+- 🌱 I’m learning Python !!
 - 👯 I’m looking to collaborate on everything exciting !
 - 📫 How to reach me: sara.valencia.m@gmail.com
 - 😄 Pronouns: she/her 
