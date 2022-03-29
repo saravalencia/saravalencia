@@ -13,7 +13,14 @@
 
 ## Some of my projects: 
 
-* [Redefine](https://github.com/saravalencia/Redefine): this website is built by a team of 4 as final project in a web developer bootcamp for a client located in Denmark. It's built with React, styled-components and atomic design.
+
+* [Catalyst Exlorer](http://catalyst-whitelabgx.com/): This web application is my main project for this company, i developed all the front end and UX-UI, and currently working on the backend. 
+
+* [Catalyst Expert](http://15.236.91.133/main): This web application is a small demostration of the expert mode of Catalyst that we are currently working on, I developed all the front end for this app as the UX/UI and worked on some of the backend. 
+
+* [Relevant paper finder](https://github.com/saravalencia/gui-relevant-paper-finder): this app is build in python with PyQt5, some of the docs_json_objects are not uploaded due to size of the folders. 
+
+* [Redefine](https://github.com/saravalencia/Redefine): I created this website for a client located in Denmark. It's built with React, styled-components and atomic design.
 
 * [Radio](https://github.com/saravalencia/Project2-radio): An application to listen to the top 10 radios of the country of your choice, by clicking on the country that you prefer on the world map, you will get the top 10 most listened radio stations of the country. You have also a random radio button to navigate across 30,000 radio stations that come from a powerful API.
 
