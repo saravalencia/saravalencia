@@ -32,10 +32,10 @@
 
 ### Let's connect through [linkedin](https://www.linkedin.com/in/sara-valencia/)!
 
-- 🔭 Currently working at WhiteLab Genomics
-- 🌱 I’m learning Python !!
+- 🔭 Web and mobile developer at WhiteLab Genomics.
+- 🌱 I’m currently learning Python, TypeScript, WebGl, ThreeJs and Blender.
 - 👯 I’m looking to collaborate on everything exciting !
 - 📫 How to reach me: sara.valencia.m@gmail.com
-- 😄 Pronouns: she/her 
+- 😄 From the Colombian tropics.  
 - ⚡ Fun fact: I speak 4 lenguges, so feel free to contact me in English, Spanish, French or Italian!
 
