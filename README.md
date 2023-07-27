@@ -7,7 +7,7 @@
 
 ## Some of my projects: 
 
-
+The majority of my recent projects are now hosted on Gitlab, i will update soon ! 
 * [Catalyst Exlorer](http://catalyst-whitelabgx.com/): This web application is my main project for this company, i developed all the front end and UX-UI, and currently working on the backend. 
 
 * [Catalyst Expert](http://15.236.91.133/main): This web application is a small demostration of the expert mode of Catalyst that we are currently working on, I developed all the front end for this app as the UX/UI and worked on some of the backend. 
